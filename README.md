@@ -1,4 +1,4 @@
-KenyaDQ OpenMRS Module
+DQ OpenMRS Module
 ===========================
 
-Data quality management for KenyaEMR
+Data quality management for EMR
